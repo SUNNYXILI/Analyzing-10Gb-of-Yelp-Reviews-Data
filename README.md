@@ -8,7 +8,7 @@ I used my understanding of how to leverage transformations and actions (as per t
 
 **Analysis**
 
-**All the analysis is in the file project02 -> Analysis.py OR Analysis.pdf**
+**All the analysis is in the file Analyzing 10Gb of Yelp Reviews Data -> Analysis.py OR Analysis.pdf**
 
 I analyzed a subset of Yelp's business, reviews and user data. This dataset comes to me from [Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset) although I have taken steps to pull this data into a public s3 bucket:  s3://sta9760-project2-dataset/yelp\_academic\_dataset_business.json,  s3://sta9760-project2-dataset/yelp\_academic\_dataset_review.json,  s3://sta9760-project2-dataset/yelp\_academic\_dataset_user.json
 
